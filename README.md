@@ -12,6 +12,8 @@ Bu mobil oyun, disleksik çocukların kelime ve harf seviyelerini ölçmelerine 
 Oyun, disleksiyle ilgili özel ihtiyaçları olan çocuklar için uyarlanmıştır ve onlara eğlenirken öğrenme fırsatı sunar. 
 Testler, çocukların kelime tanıma, harf dizilerini takip etme, harf-ses eşleştirme ve hızlı okuma becerilerini geliştirmeyi hedefler.
 
+Bu oyun hala geliştirilmektedir.
+
 [EN]
 
 "Support for Dyslexia Mobile Game"
@@ -23,3 +25,5 @@ That's why I have created the "Support for Dyslexia Mobile Game."
 This mobile game consists of four different tests designed to help dyslexic children measure their word and letter levels. 
 The game is tailored to meet the specific needs of children with dyslexia, offering them an opportunity to learn while having fun. 
 The tests aim to enhance children's word recognition, letter sequencing, letter-sound matching, and speed reading skills.
+
+This game is still in development.
