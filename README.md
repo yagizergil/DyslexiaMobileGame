@@ -12,6 +12,8 @@ Bu mobil oyun, disleksik çocukların kelime ve harf seviyelerini ölçmelerine 
 Oyun, disleksiyle ilgili özel ihtiyaçları olan çocuklar için uyarlanmıştır ve onlara eğlenirken öğrenme fırsatı sunar. 
 Testler, çocukların kelime tanıma, harf dizilerini takip etme, harf-ses eşleştirme ve hızlı okuma becerilerini geliştirmeyi hedefler.
 
+Uygulamayı çalıştırmak için "aaaa" klasörünü indirmeniz ve Unity 2018.3.14f sürümünü kullanmanız gerekmektedir.
+
 Bu oyun hala geliştirilmektedir.
 
 [EN]
@@ -27,3 +29,5 @@ The game is tailored to meet the specific needs of children with dyslexia, offer
 The tests aim to enhance children's word recognition, letter sequencing, letter-sound matching, and speed reading skills.
 
 This game is still in development.
+
+To run the application, you need to download the "aaaa" folder and use Unity version 2018.3.14f.
