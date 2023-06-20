@@ -1,6 +1,7 @@
 # DyslexiaMobileGame
 
-[TR]
+[TR] 
+
 
 "Disleksi Destek Mobil Oyunu"
 
